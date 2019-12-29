@@ -82,6 +82,7 @@ metadata {
 		// Third Reality
 		fingerprint profileId: "0104", inClusters: "0000, 0003, 0004, 0005, 0006, 0019", manufacturer: "Third Reality, Inc", model: "3RSS008Z", deviceJoinName: "RealitySwitch Plus"
 		fingerprint profileId: "0104", inClusters: "0000, 0003, 0004, 0005, 0006, 0019", manufacturer: "Third Reality, Inc", model: "3RSS007Z", deviceJoinName: "RealitySwitch"
+        fingerprint profileId: "0104", manufacturer: "mirabella", model: "Loft", deviceJoinName: "Loft"
 	}
 
 	// simulator metadata
